@@ -1,116 +1,197 @@
-👾 Sanan Asgarov — Paradox AI
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dvenom%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DSANAN%2520ASGAROV%26fontSize%3D55%26fontAlignY%3D35%26desc%3DAI%2520Driven%2520Full%2520Stack%2520Developer%2520%257C%2520Paradox%2520AI%26descAlignY%3D55" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Specialist+%F0%9F%9B%A1%EF%B8%8F;Building+Intelligent+Systems+⚡" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fsize%3D22%26duration%3D2500%26pause%3D700%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DAI-Powered%2BDeveloper%3BFull%2BStack%2BExplorer%3BPython%2B%257C%2BFlask%2B%257C%2BJS%3BMechatronics%2BEngineer%3BTurning%2BIdeas%2BInto%2BSystems" />
-</p>
+<div align="center">
 
-🧠 Who Am I?
+[![Email](https://img.shields.io/badge/Email-sananasgarovs%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sananasgarovs@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B994%20507%20865%20090-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+994507865090)
+[![Location](https://img.shields.io/badge/Location-Azerbaijan-4A90E2?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
-I'm Sanan Asgarov 🇦🇿
+</div>
 
-A new-generation Full Stack Developer who builds projects using AI as an accelerator, not a shortcut. I don't just build systems; I build solutions that work and scale.
+---
 
-💡 “If you can imagine it, you can automate it.”
+## 🚀 About Me
 
-🤖 AI-assisted development (Prompt Engineering & Token Optimization)
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-⚙️ System-level thinking (Kernel-level optimizations)
+I'm a **junior AI engineer** and **full-stack developer** obsessed with building **real-world intelligent systems** that solve actual problems. Not just another trend-chaser—I focus on **stable, efficient, and practical solutions** that work in production.
 
-🧪 Experimental mindset (LLMs, Reverse Engineering)
+**My Philosophy:**
+- 🎯 Focus on what matters: **real system performance**
+- 🔬 Experiment relentlessly, iterate constantly
+- 🛠️ Backend + AI + Security = Complete Solutions
+- ⚡ Speed without sacrificing quality
 
-🚀 Fast learner (From Mechatronics to Cyber Security)
+<br clear="right"/>
 
-🛠️ Tech Stack & Skills
+---
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,js,html,css,flask,arduino,linux,kali,bash,vscode,github%26perline%3D6" alt="My Skills" />
-</a>
-</p>
+## 🎓 Quick Stats
 
-Python (AI/Backend)  ██████████░░ 90%
-HTML / CSS / JS      █████████░░░ 85%
-C++ (Arduino/HW)     ███████░░░░░ 70%
-Cyber Security       ██████░░░░░░ 60%
+<div align="center">
+
+| 👨‍💻 | 🏆 | 🎯 |
+|----|----|-----|
+| **Full Stack Dev** | **AI Specialist** | **Security Focus** |
+| Python, C++, JS | LLMs, Multimodal | Ethical Hacking |
+| Flask, Node.js | Prompt Engineering | OSINT, Network Sec |
+
+</div>
+
+---
+
+## 💡 Core Expertise
+
+<table>
+<tr>
+<td width="25%">
+
+### 🤖 **AI & ML**
+- Prompt Engineering
+- Multimodal Systems
+- LLM APIs & Local Models
+- Vision & Speech Processing
+
+</td>
+<td width="25%">
+
+### 💻 **Backend**
+- Python, C++, JavaScript
+- Flask & FastAPI
+- System Optimization
+- Database Design
+
+</td>
+<td width="25%">
+
+### 🌐 **Full Stack**
+- Modern UI/UX Design
+- Desktop Applications
+- Web Development
+- Real-time Systems
+
+</td>
+<td width="25%">
+
+### 🛡️ **Security**
+- Ethical Hacking
+- Network Analysis
+- OSINT Intelligence
+- Vulnerability Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Projects
+
+### ⭐ **Windows System Optimizer**
+**Tech:** C++ • Python • Windows APIs  
+Kernel-level performance tuning with secure licensing integration. Includes system debloat modules, real-time hardware monitoring, and resource optimization at kernel level.
+
+### 🤖 **Paradox AI**  
+**Tech:** Python • Flask • LLaVA • Ollama  
+Multimodal AI assistant with local LLM support (Llama 3, Mistral). Features vision capabilities, OCR processing, multilingual support, and real-time contextual responses.
+
+### 🔍 **Network Intelligence Suite**
+**Tech:** Nmap • Python • Bash  
+Comprehensive security and OSINT toolkit with network scanning, vulnerability analysis, OSINT data gathering, and professional security testing frameworks.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark)](https://skillicons.dev)
+
+### Frameworks & Tools
+[![My Skills](https://skillicons.dev/icons?i=flask,nodejs,git,bash,docker&theme=dark)](https://skillicons.dev)
+
+### Platforms
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,arduino&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📚 Education
+
+<div align="center">
+
+### 🎓 Mechanical & Robotics Engineering
+**Azerbaijan State Oil and Industry University**  
+*2025 - Present*
+
+[![Graduation](https://img.shields.io/badge/Status-Currently_Studying-2196F3?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Robotics_%26_Mechatronics-9C27B0?style=flat-square)]()
+
+</div>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+
+| 🇦🇿 Azerbaijani | 🇹🇷 Turkish | 🇬🇧 English |
+|:---:|:---:|:---:|
+| **⭐⭐⭐⭐⭐** | **⭐⭐⭐⭐** | **⭐⭐⭐** |
+| Native | Advanced | Intermediate |
+
+</div>
+
+---
+
+## 🎯 Focus Areas
+
+<div align="center">
+
+**Ethical Hacking** • **Multimodal AI** • **System Architecture** • **UI/UX Design** • **Open Source AI**
+
+</div>
+
+---
+
+## 📊 My Philosophy
+
+> **Real System Performance** over Complexity  
+> **Practical Solutions** over Theoretical Perfection  
+> **User Impact** over Feature Count  
+> **Maintainable Code** over Quick Hacks
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![Sanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asgarlysanan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asgarlysanan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asgarlysanan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanan-asgarly-0a7220394)
 
 
-🧩 Featured Systems
+> **"The future belongs to those who build intelligent systems with purpose, not complexity."**
 
-🧠 NEXTUNE (2025)
+---
 
-Windows Optimization Licensed Software
+<img src="https://img.shields.io/badge/Last%20Updated-April%202026-00D9FF?style=flat-square" />
 
-🔍 Kernel-level resource optimization logic
-
-🖥️ Secure licensing & "debloat" modules
-
-🤖 Hardware monitoring & automation
-
-🧠 PARADOX AI (JOPESH)
-
-Joint Operational Personal Enhanced System Host
-
-🔍 OSINT-inspired leak & data search logic
-
-🤖 Multimodal AI (Llama 3 / Mistral based)
-
-🧱 Modular & expandable architecture
-
-🤖 AI Philosophy
-
-“AI doesn’t replace developers. It replaces limits.”
-
-Analyze: I never blind-copy; I analyze the AI's output.
-
-Optimize: I rewrite for performance and kernel-level stability.
-
-Learn: AI is my mentor, helping me understand the why, not just the how.
-
-Goal: Strong engineer + AI leverage.
-
-📊 Terminal Stats 😄
-
-Lines of Code Written         : 1,284,392
-AI Conversations              : 9,742
-Ideas Generated               : ∞
-Bugs Created                  : Too many
-Bugs Fixed                    : Almost all
-Coffee Consumed               : Critical level
-
-
-📊 GitHub Metrics (Real Stats)
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://metrics.lecoq.io/SananAsgarov%3Ftemplate%3Dterminal%26base%3Dheader,activity,community,repositories,metadata%26base.indepth%3Dtrue%26config.timezone%3DAsia/Baku" alt="Metrics" width="100%" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSananAsgarov%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" height="150"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSananAsgarov%26theme%3Dradical" alt="GitHub Streak" height="150"/>
-</p>
-
-🧠 Quotes I Live By
-
-🧠 “Code is temporary. Mindset is permanent.”
-
-🤖 “AI is my tool, not my brain.”
-
-⚡ “Move fast, learn faster.”
-
-🌌 “Build systems, not excuses.”
-
-🌌 Final Note
-
-“I’m not experienced yet — but I’m dangerous with ideas.”
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=160&section=footer" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://tryhackme-badges.s3.amazonaws.com/SananAsgarov.png" alt="TryHackMe" />
-</p>
+</div>
