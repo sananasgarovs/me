@@ -1,109 +1,115 @@
-<h1 align="center">Hi there, I'm Sanan Asgarov 👋</h1>
-
-<h3 align="center">AI & Full-Stack Developer | Mechatronics Engineer</h3>
+👾 Sanan Asgarov — Paradox AI
 
 <p align="center">
-<i>I am a developer from the new era where AI is not just a trend, but a fundamental tool. My goal isn't just to build an "ideal" system, but to create practical, stable, and working solutions that meet real needs. I focus on Backend, AI integration, and user interfaces with simplicity and effectiveness at the core.</i>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dvenom%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DSANAN%2520ASGAROV%26fontSize%3D55%26fontAlignY%3D35%26desc%3DAI%2520Driven%2520Full%2520Stack%2520Developer%2520%257C%2520Paradox%2520AI%26descAlignY%3D55" />
 </p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fsize%3D22%26duration%3D2500%26pause%3D700%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DAI-Powered%2BDeveloper%3BFull%2BStack%2BExplorer%3BPython%2B%257C%2BFlask%2B%257C%2BJS%3BMechatronics%2BEngineer%3BTurning%2BIdeas%2BInto%2BSystems" />
+</p>
+
+🧠 Who Am I?
+
+I'm Sanan Asgarov 🇦🇿
+
+A new-generation Full Stack Developer who builds projects using AI as an accelerator, not a shortcut. I don't just build systems; I build solutions that work and scale.
+
+💡 “If you can imagine it, you can automate it.”
+
+🤖 AI-assisted development (Prompt Engineering & Token Optimization)
+
+⚙️ System-level thinking (Kernel-level optimizations)
+
+🧪 Experimental mindset (LLMs, Reverse Engineering)
+
+🚀 Fast learner (From Mechatronics to Cyber Security)
 
 🛠️ Tech Stack & Skills
 
 <p align="center">
-<a href="https://skillicons.dev">
+<a href="https://www.google.com/search?q=https://skillicons.dev">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,js,html,css,flask,arduino,linux,kali,bash,vscode,github%26perline%3D6" alt="My Skills" />
 </a>
 </p>
 
-<table align="center">
-<tr>
-<td align="center">🤖 <b>AI Engineering</b></td>
-<td align="center">💻 <b>Full Stack & UI/UX</b></td>
-<td align="center">🔒 <b>Security & Hardware</b></td>
-</tr>
-<tr>
-<td>
-• Prompt Engineering & Token Optimization
+Python (AI/Backend)  ██████████░░ 90%
+HTML / CSS / JS      █████████░░░ 85%
+C++ (Arduino/HW)     ███████░░░░░ 70%
+Cyber Security       ██████░░░░░░ 60%
 
 
+🧩 Featured Systems
 
-
-• Local LLMs (Ollama) & APIs (GPT, Gemini)
-
-
-
-
-• Multimodal AI (STT, TTS, OCR, Image Analysis)
-</td>
-<td>
-• Python & Backend Architecture (Flask)
-
-
-
-
-• AI-Assisted Rapid Prototyping
-
-
-
-
-• System-independent UI design (Web & Desktop GUI)
-</td>
-<td>
-• Ethical Hacking & Reverse Engineering
-
-
-
-
-• OSINT, Nmap, Basic Web Security (XSS)
-
-
-
-
-• Microcontrollers, Arduino (C++), ESP32
-</td>
-</tr>
-</table>
-
-🚀 Featured Projects
-
-⚡ Nextune (2025 - Ongoing)
+🧠 NEXTUNE (2025)
 
 Windows Optimization Licensed Software
 
-Developed a licensed desktop application that increases Windows system performance and optimizes resources at the kernel level.
+🔍 Kernel-level resource optimization logic
 
-Integrated a secure licensing system, "debloat" modules, and real-time hardware monitoring.
+🖥️ Secure licensing & "debloat" modules
 
-🧠 Paradox AI
+🤖 Hardware monitoring & automation
 
-Multimodal Open-Source Chatbot
+🧠 PARADOX AI (JOPESH)
 
-Built a local AI assistant based on open-source LLMs (Llama 3, Mistral) with a modern web interface.
+Joint Operational Personal Enhanced System Host
 
-Integrated foundational computer vision capabilities to extract descriptions from images and read text via OCR.
+🔍 OSINT-inspired leak & data search logic
 
-📊 Performance Metrics & Stats
+🤖 Multimodal AI (Llama 3 / Mistral based)
+
+🧱 Modular & expandable architecture
+
+🤖 AI Philosophy
+
+“AI doesn’t replace developers. It replaces limits.”
+
+Analyze: I never blind-copy; I analyze the AI's output.
+
+Optimize: I rewrite for performance and kernel-level stability.
+
+Learn: AI is my mentor, helping me understand the why, not just the how.
+
+Goal: Strong engineer + AI leverage.
+
+📊 Terminal Stats 😄
+
+Lines of Code Written         : 1,284,392
+AI Conversations              : 9,742
+Ideas Generated               : ∞
+Bugs Created                  : Too many
+Bugs Fixed                    : Almost all
+Coffee Consumed               : Critical level
+
+
+📊 GitHub Metrics (Real Stats)
 
 <p align="center">
-<!-- Metrics image (Generated via lowlighter/metrics) -->
-<img src="https://www.google.com/search?q=https://metrics.lecoq.io/SananAsgarov%3Ftemplate%3Dterminal%26base%3Dheader,activity,community,repositories,metadata%26base.indepth%3Dtrue%26config.timezone%3DAsia/Baku" alt="Sanan's Metrics" width="100%" />
+<img src="https://www.google.com/search?q=https://metrics.lecoq.io/SananAsgarov%3Ftemplate%3Dterminal%26base%3Dheader,activity,community,repositories,metadata%26base.indepth%3Dtrue%26config.timezone%3DAsia/Baku" alt="Metrics" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSananAsgarov%26show_icons%3Dtrue%26theme%3Dradical" alt="Sanan's GitHub stats" height="150"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSananAsgarov%26theme%3Dradical" alt="Sanan's GitHub Streak" height="150"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSananAsgarov%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" height="150"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSananAsgarov%26theme%3Dradical" alt="GitHub Streak" height="150"/>
 </p>
 
-👨‍💻 About Me
+🧠 Quotes I Live By
 
-🔭 I’m currently working on Nextune and iterating on systems to make them better.
+🧠 “Code is temporary. Mindset is permanent.”
 
-🌱 I’m currently exploring deeper into Reverse Engineering and Multimodal AI.
+🤖 “AI is my tool, not my brain.”
 
-🎓 Holds a Bachelor's degree in Mechatronics and Robotics Engineering from Azerbaijan State Oil and Industry University.
+⚡ “Move fast, learn faster.”
 
-💬 Ask me about Local LLMs, Python Backend, or System Optimization.
+🌌 “Build systems, not excuses.”
 
-📫 How to reach me: sananasgarovs@gmail.com
+🌌 Final Note
+
+“I’m not experienced yet — but I’m dangerous with ideas.”
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=160&section=footer" />
+</p>
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://tryhackme-badges.s3.amazonaws.com/SananAsgarov.png" alt="TryHackMe" />
