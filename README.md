@@ -1,12 +1,19 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Specialist+%F0%9F%9B%A1%EF%B8%8F;Building+Intelligent+Systems+⚡" alt="Typing SVG" />
+
+<h1 style="font-size: 42px; font-weight: 800; letter-spacing: 1px;">
+Sanan Asgarov
+</h1>
+
+<p style="color: #58A6FF; font-size: 18px;">
+Junior AI Engineer • Full Stack Developer
+</p>
+
 </div>
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sananasgarovs%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sananasgarovs@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B994%20507%20865%20090-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+994507865090)
+[![Phone](https://img.shields.io/badge/Phone-%2B994%2077%20222%2093%2081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+994772229381)
 [![Location](https://img.shields.io/badge/Location-Azerbaijan-4A90E2?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
