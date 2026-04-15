@@ -1,129 +1,110 @@
-# 👾 Sanan Asgarly — Paradox AI
+<h1 align="center">Hi there, I'm Sanan Asgarov 👋</h1>
+
+<h3 align="center">AI & Full-Stack Developer | Mechatronics Engineer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=280&section=header&text=SANAN%20ASGARLY&fontSize=55&fontAlignY=35&desc=AI%20Driven%20Full%20Stack%20Developer%20%7C%20Paradox%20AI&descAlignY=55" />
+<i>I am a developer from the new era where AI is not just a trend, but a fundamental tool. My goal isn't just to build an "ideal" system, but to create practical, stable, and working solutions that meet real needs. I focus on Backend, AI integration, and user interfaces with simplicity and effectiveness at the core.</i>
+</p>
+
+🛠️ Tech Stack & Skills
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,js,html,css,flask,arduino,linux,kali,bash,vscode,github%26perline%3D6" alt="My Skills" />
+</a>
+</p>
+
+<table align="center">
+<tr>
+<td align="center">🤖 <b>AI Engineering</b></td>
+<td align="center">💻 <b>Full Stack & UI/UX</b></td>
+<td align="center">🔒 <b>Security & Hardware</b></td>
+</tr>
+<tr>
+<td>
+• Prompt Engineering & Token Optimization
+
+
+
+
+• Local LLMs (Ollama) & APIs (GPT, Gemini)
+
+
+
+
+• Multimodal AI (STT, TTS, OCR, Image Analysis)
+</td>
+<td>
+• Python & Backend Architecture (Flask)
+
+
+
+
+• AI-Assisted Rapid Prototyping
+
+
+
+
+• System-independent UI design (Web & Desktop GUI)
+</td>
+<td>
+• Ethical Hacking & Reverse Engineering
+
+
+
+
+• OSINT, Nmap, Basic Web Security (XSS)
+
+
+
+
+• Microcontrollers, Arduino (C++), ESP32
+</td>
+</tr>
+</table>
+
+🚀 Featured Projects
+
+⚡ Nextune (2025 - Ongoing)
+
+Windows Optimization Licensed Software
+
+Developed a licensed desktop application that increases Windows system performance and optimizes resources at the kernel level.
+
+Integrated a secure licensing system, "debloat" modules, and real-time hardware monitoring.
+
+🧠 Paradox AI
+
+Multimodal Open-Source Chatbot
+
+Built a local AI assistant based on open-source LLMs (Llama 3, Mistral) with a modern web interface.
+
+Integrated foundational computer vision capabilities to extract descriptions from images and read text via OCR.
+
+📊 Performance Metrics & Stats
+
+<p align="center">
+<!-- Metrics image (Generated via lowlighter/metrics) -->
+<img src="https://www.google.com/search?q=https://metrics.lecoq.io/SananAsgarov%3Ftemplate%3Dterminal%26base%3Dheader,activity,community,repositories,metadata%26base.indepth%3Dtrue%26config.timezone%3DAsia/Baku" alt="Sanan's Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=AI-Powered+Developer;Full+Stack+Explorer;Python+%7C+HTML+CSS+JS;C%2B%2B+Learner;Turning+Ideas+Into+Systems" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSananAsgarov%26show_icons%3Dtrue%26theme%3Dradical" alt="Sanan's GitHub stats" height="150"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSananAsgarov%26theme%3Dradical" alt="Sanan's GitHub Streak" height="150"/>
 </p>
 
----
+👨‍💻 About Me
 
-## 🧠 Who Am I?
+🔭 I’m currently working on Nextune and iterating on systems to make them better.
 
-I'm **Sanan Asgarly** 🇦🇿  
-A **new-generation Full Stack Developer** who builds projects using **AI as an accelerator**, not a shortcut.
+🌱 I’m currently exploring deeper into Reverse Engineering and Multimodal AI.
 
-> 💡 *“If you can imagine it, you can automate it.”*
+🎓 Holds a Bachelor's degree in Mechatronics and Robotics Engineering from Azerbaijan State Oil and Industry University.
 
-- 🤖 AI-assisted development
-- ⚙️ System-level thinking
-- 🧪 Experimental mindset
-- 🚀 Fast learner, endless ideas
+💬 Ask me about Local LLMs, Python Backend, or System Optimization.
 
----
-
-## 👧 AI Companion (Visual / Fictional)
+📫 How to reach me: sananasgarovs@gmail.com
 
 <p align="center">
-  <img src="https://i.imgur.com/Z6XQZ6K.png" width="260"/>
-</p>
-
-> **Paradox-chan**  
-> *Status:* Online  
-> *Mood:* Calculating…  
-> *Role:* UI inspiration & motivation unit
-
----
-
-## 🧩 Featured System
-
-### 🧠 JOPESH AI  
-**Joint Operational Personal Enhanced System Host**  
-Codename: **Paradox AI**
-
-**Concept Modules**
-- 🔍 Leak & data search logic (OSINT-inspired)
-- 🖥️ Windows automation & control
-- 🤖 AI-based decision layers
-- 🧱 Modular & expandable architecture
-
-> Built for learning, experimenting, and pushing limits.
-
----
-
-## 🛠️ Tech Stack
-
-```txt
-Python        ██████████░░
-HTML / CSS    ██████████░░
-JavaScript    █████████░░░
-C++           ██████░░░░░
-```
-
----
-
-## 🤖 AI Philosophy
-
-> “AI doesn’t replace developers.  
-> It replaces limits.”
-
-- I analyze AI output
-- I rewrite and optimize
-- I learn *why*, not just *how*
-- Goal: **Strong engineer + AI leverage**
-
----
-
-## 📊 Fake But Cool Stats 😄
-
-```txt
-Lines of Code Written        : 1,284,392
-AI Conversations             : 9,742
-Ideas Generated              : ∞
-Bugs Created                 : Too many
-Bugs Fixed                   : Almost all
-Coffee Consumed              : Critical level
-```
-
----
-
-## 🧠 Quotes I Live By
-
-> 🧠 “Code is temporary. Mindset is permanent.”  
-> 🤖 “AI is my tool, not my brain.”  
-> ⚡ “Move fast, learn faster.”  
-> 🌌 “Build systems, not excuses.”
-
----
-
-## 📊 GitHub Metrics (Optional Real Stats)
-
-```md
-![Metrics](https://metrics.lecoq.io/USERNAME?template=classic)
-![Languages](https://metrics.lecoq.io/USERNAME?plugin=languages)
-![Activity](https://metrics.lecoq.io/USERNAME?plugin=activity)
-```
-
----
-
-## 🎵 Just for Style
-
-```md
-![Music](https://metrics.lecoq.io/USERNAME?plugin=music)
-![Anime](https://metrics.lecoq.io/USERNAME?plugin=anilist)
-```
-
----
-
-## 🌌 Final Note
-
-> “I’m not experienced yet —  
-> but I’m dangerous with ideas.”
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=160&section=footer" />
+<img src="https://www.google.com/search?q=https://tryhackme-badges.s3.amazonaws.com/SananAsgarov.png" alt="TryHackMe" />
 </p>
