@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #05080f;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+.sanan-page {
+  position: relative;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: #05080f;
+}
+
+.sanan-overlay {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.sanan-gradient {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent, transparent, #020a1a);
+  z-index: 0;
+}
+
+.sanan-main {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem 0;
+}
+
+@media (min-width: 640px) {
+  .sanan-main {
+    padding-top: 6rem;
+  }
+}
+
+.sanan-avatar-wrapper {
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 640px) {
+  .sanan-avatar-wrapper {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.sanan-avatar {
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(24px);
+}
+
+@media (min-width: 640px) {
+  .sanan-avatar {
+    width: 6rem;
+    height: 6rem;
+  }
+}
+
+.sanan-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sanan-title {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .sanan-title {
+    margin-bottom: 2.5rem;
+  }
+}
+
+.sanan-title h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.25em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.sanan-section {
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 640px) {
+  .sanan-section {
+    margin-bottom: 4rem;
+  }
+}
+
+.sanan-music-wrapper {
+  width: 100%;
+  max-width: 24rem;
+}
+
+.sanan-quotes {
+  margin-bottom: 3rem;
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .sanan-quotes {
+    margin-bottom: 6rem;
+  }
+}
+
+.sanan-pool {
+  position: relative;
+  z-index: 10;
+}
