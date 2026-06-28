@@ -6,5 +6,5 @@ export default defineConfig({
   // GitHub Pages path:
   // - username.github.io reposu üçün → '/'
   // - username.github.io/sanan/ üçün → '/sanan/'
-  base: '/sanan/',
+  base: '/me/',
 });
