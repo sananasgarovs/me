@@ -3,9 +3,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const QUOTES = [
   { text: 'Kelimeler, albayım, bazı anlamlara gelmiyor.' },
-  { text: 'Balıq olsam, qayıq çarpar.' },
   { text: 'Həqiqət absolutdur.' },
-  { text: 'wubba lubba dub dub' },
+  { text: 'Wubba lubba dub dub' },
 ];
 
 const TYPE_SPEED = 40;
