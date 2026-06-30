@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 const QUOTES = [
   { text: 'Kelimeler, albayım, bazı anlamlara gelmiyor.' },
   { text: 'Həqiqət absolutdur.' },
+  { text: 'Gözleriniz çok ses çıkarıyor, albayım' },
   { text: 'Wubba lubba dub dub' },
 ];
 
