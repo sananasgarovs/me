@@ -2,20 +2,15 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const THOUGHTS = [
-  "Kelimeler, albayım, bazı anlamlara gelmiyor.",
+    "Reality is an illusion, the universe is a hologram, buy gold, bye!",
   "İnsanlar həyatında sadəcə bir müddətlik qonaqdırlar. Bütün qazandığın insanlar gedəcək və hər şey bir gün səndən ayrılacaq. Yaxşı həyat nə qədər şey topladığınla ölçülmür, nə qədərini itirəndən sonra nə qədər davam edə bildiyinlə ölçülür.",
   "Həqiqət absolyutdur.",
-  "Şəhvət sevgini öldürür.",
   "Gözleriniz çok ses çıkarıyor, albayım.",
-  "Come along with me with the butterflies and bees, we can wander through the forest and do so as we please.",
-  "I'm not here. This isn't happening.",
-  "For a minute there, I lost myself...",
   "Yalnızca her şeyi kaybettikten sonra her şeyi yapmakta özgür oluruz. Sahip oldukların sonunda sana sahip olur.",
   "Evren zalim ve kayıtsız bir boşluktur. Mutlu olmanın anahtarı anlam aramak değil; sadece ölene kadar kendini önemsiz şeylerle meşgul etmektir.",
   "Atlamadan önce, yolun yarısından olan manzarayı görmeliydim.",
   "Yalnızlık bütün hayatım boyunca beni takip etti. Her yerde... Kaçış yok. Ben Tanrı'nın yalnız adamıyım.",
   "İnsanlar da fotoğraflar gibidir; ne kadar büyütürsen, o kadar düşer kalitesi.",
-  "Reality is an illusion, the universe is a hologram, buy gold, bye!",
 ];
 
 const BookQuoteSlider = () => {
