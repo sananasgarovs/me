@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const THOUGHTS = [
-    "Reality is an illusion, the universe is a hologram, buy gold, bye!",
+  "Reality is an illusion, the universe is a hologram, buy gold, bye!",
   "İnsanlar həyatında sadəcə bir müddətlik qonaqdırlar. Bütün qazandığın insanlar gedəcək və hər şey bir gün səndən ayrılacaq. Yaxşı həyat nə qədər şey topladığınla ölçülmür, nə qədərini itirəndən sonra nə qədər davam edə bildiyinlə ölçülür.",
   "Həqiqət absolyutdur.",
   "Gözleriniz çok ses çıkarıyor, albayım.",
